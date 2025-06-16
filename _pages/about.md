@@ -29,7 +29,7 @@ Ms. Chen is a research practitioner in Computer Vision and Artificial Intelligen
 - **Large Language Models**: Agent collaboration, domain-specific LLMs, RAG
 
 <span style="color:#00BFFF; font-weight:bold;">
-I am seeking a PhD position for Fall 2026. If my background aligns with your interests, I’d be grateful to connect！</span>  
+I'm applying for Fall 2026 PhD positions. If my work resonates with you, I’d love to connect!</span>  
 
 Hera is my Curriculum Vitae.(CV)
 
