@@ -43,7 +43,10 @@ Hera is my Curriculum Vitae.(CV)
 
 **Yuxia Chen**<sup>★</sup>, Pengcheng Fang<sup>★</sup>, Xiaoling Zhong, Jianhui Yu, Xiaoming Zhang, Tianrui Li
 
-- The paper "Hi‑ResNet: Edge Detail Enhancement for High‑Resolution Remote Sensing Segmentation" proposes a novel segmentation network tailored for high-resolution remote sensing images. It introduces a funnel module for high-res semantic extraction and a multi-branch Information Aggregation (IA) module to capture multi-scale object variations. Additionally, a Class-agnostic Edge Aware (CEA) loss is designed to enhance boundary accuracy. The method achieves strong performance on benchmarks like LoveDA, Potsdam, and Vaihingen.
+- The funnel module is proposed to reduce computing costs, efficiently extract high-resolution information, and avoid feature loss from the input image.
+- The IA block is applied to a multi-branch module, integrating the dynamic global modeling capability of the Transformer into CNN-based networks.
+- The CEA loss is developed to emphasize edge information while considering multiple classes.
+- Hi-ResNet is validated on several benchmarks, achieving performance superior to existing prevalent methods.
 </div>
 </div>
 
