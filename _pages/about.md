@@ -53,7 +53,7 @@ Hera is my Curriculum Vitae.(CV)
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">2025 submitted</div><img src='images/arch.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-TimeChat: Timestamp-Aware Multimodal Large Language Model for Long Video Understanding
+TempRL: A Temporal-Aware Multimodal LLM with Reinforcement Learning for Long Video Understanding
 
 **Yuxia Chen**<sup>★</sup>, Pengcheng Fang<sup>★</sup>, Jianhui Yu
 
