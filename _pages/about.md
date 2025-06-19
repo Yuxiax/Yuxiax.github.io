@@ -32,7 +32,7 @@ Ms. Chen is a research practitioner in Computer Vision and Artificial Intelligen
 I'm applying for Fall 2026 PhD positions. If my work resonates with you, I’d love to connect!</span>  
 
 Here is my Curriculum Vitae
-<a href="/assets/Yuxia_CV.pdf" target="_blank"><strong>(CV)</strong></a>
+
 
 
 # 📝 Publications 
