@@ -31,7 +31,8 @@ Ms. Chen is a research practitioner in Computer Vision and Artificial Intelligen
 <span style="color:#00BFFF; font-weight:bold;">
 I'm applying for Fall 2026 PhD positions. If my work resonates with you, I’d love to connect!</span>  
 
-Hera is my Curriculum Vitae.(CV)
+Here is my Curriculum Vitae (CV): 
+<a href="/assets/RenderCV_EngineeringResumes_Theme" target="_blank"><strong>Download PDF</strong></a>
 
 
 # 📝 Publications 
